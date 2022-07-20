@@ -23,6 +23,6 @@ Code is cheap, show me your thoughts.
 - [Resume](./resume)
 
 
-# Contact Me
+# Contact
 - [Email](eacontang@foxmail.com): eacontang@foxmail.com
 - Wechat: tyingk
