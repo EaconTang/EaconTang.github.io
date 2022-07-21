@@ -16,7 +16,7 @@ Code is cheap, show me your thoughts.
 
 
 # Writing
-- [Blog](./blog)
+- Blog // Todo: Refactoring...
 
 
 # Job
