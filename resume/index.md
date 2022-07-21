@@ -45,7 +45,7 @@
 ```
 【项目简介】：策略研发运营PaaS平台，负责腾讯海量业务安全数据的策略下发、离线回扫任务和业务运营。
 【个人角色】：技术Leader
-【技术栈】：trpc-go、mysql、redis、zookeeper、代码生成、分布式定时框架
+【关键技术】：trpc-go、mysql、redis、zookeeper、代码生成、分布式定时框架
 【相关数据】：后台数据量级100+亿/分钟；策略下发1000+次/天；离线回扫任务约2000并发
 ```
 
@@ -54,7 +54,7 @@
 ```
 【项目简介】：基于k8s的TKE容器平台建设，负责平台搭建、业务上云改造和平台二次开发。
 【个人角色】：主负责人
-【技术栈】：go、k8s、linux、underlay/overlay网络、hpa弹性伸缩、模拟调度算法、云原生架构
+【关键技术】：go、k8s、linux、underlay/overlay网络、HPA、模拟调度、镜像加速、资源超卖、动态配额、云原生架构
 【相关数据】：集群规模超60w+核、8000+节点；利用率提升50%；成本节约300+w/年
 ```
 
@@ -62,7 +62,7 @@
 ```
 【项目简介】：基于jaeger二次开发的分布式调用链监控平台
 【个人角色】：主负责人
-【技术栈】：go、opentracing、jaeger、kafka、flink-streaming
+【关键技术】：go、opentracing、jaeger、kafka、flink-streaming
 【相关数据】：接入服务8+个；数据量5+亿/天
 ```
 
@@ -70,7 +70,7 @@
 ```
 【项目简介】：自研的devops运营平台，支持CI/CD流程编排，支持基于k8s的非容器服务发布
 【个人角色】：主负责人
-【技术栈】：go、etcd、pipeline、docker、distribution、k8s、CRI-Runtime
+【关键技术】：go、etcd、pipeline、docker、distribution、k8s、CRI-Runtime
 【相关数据】：流水线构建次数1000+次/天；接入服务120+个；k8s集群规模5000+节点、13000+个实例
 ```
 
@@ -78,7 +78,7 @@
 ```
 【项目简介】：基于OpenTSDB自研的大数据监控产品
 【个人角色】：技术Leader
-【技术栈】：python、opentsdb、大数据、HBase、布隆过滤器、AIOps机器学习异常检测
+【关键技术】：python、opentsdb、大数据、HBase、布隆过滤器、AIOps机器学习异常检测
 【相关数据】：[Github开源社区Star数: 77+](https://github.com/amas-eye/amas)
 【产品介绍】：[《Amas》](https://mp.weixin.qq.com/s/lCzsrPhzuaFfRyJidQ-H8w)
 ```
