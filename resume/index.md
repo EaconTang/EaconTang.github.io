@@ -1,4 +1,6 @@
-# Resume
+```
+简历链接：https://eacontang.github.io/resume/
+```
 
 ## 个人信息
 - 基础属性：男、1992年、籍广东梅州
