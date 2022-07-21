@@ -4,6 +4,7 @@
 - 基础属性：男、1992年、籍广东梅州
 - 教育背景：中山大学 - 软件学院 - 2015届 - 本科
 - 工作经验：7+年
+- 当前雇主：腾讯-TEG
 - 匹配职位：Go/Python后台开发、云平台、云原生架构、k8s容器、Devops、监控系统
 - 联系方式：15889937045（微信&手机同号）
 
@@ -18,7 +19,7 @@
 
 ## 工作经历
 - **2018年5月 ~ 至今**
-  - 公司：腾讯TEG
+  - 公司：腾讯-TEG
   - 职位：运营开发-T10；k8s开源协同技术委员会-PMC
   - 核心项目与职责：
     - 策略研发PaaS平台开发：技术Leader（管理6+人小团队）
@@ -79,7 +80,7 @@
 【个人角色】：技术Leader
 【技术栈】：python、opentsdb、AIOps、大数据
 【相关数据】：[Github开源社区Star数: 77+](https://github.com/amas-eye/amas)
-【产品介绍】：[《Amas：基于大数据平台技术开发的统一监控平台》](https://mp.weixin.qq.com/s/lCzsrPhzuaFfRyJidQ-H8w)
+【产品介绍】：[《基于大数据平台技术开发的统一监控平台》](https://mp.weixin.qq.com/s/lCzsrPhzuaFfRyJidQ-H8w)
 ```
 
 
