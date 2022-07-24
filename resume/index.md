@@ -87,11 +87,13 @@
 
 
 ## 社区活动
-- 【公众号文章】腾讯云原生：[《信安运维基于 TKE 平台的容器技术实践》](https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw)
-- 【技术演讲】Pycon2016-深圳场：[《大数据监控告警系统实现》](https://zhuanlan.zhihu.com/p/27382099)
+- 【公众号文章】
+  - 腾讯云原生：《信安运维基于 TKE 平台的容器技术实践》[https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw](https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw)
+- 【技术演讲】
+  - Pycon2016-深圳场：《大数据监控告警系统实现》[https://zhuanlan.zhihu.com/p/27382099](https://zhuanlan.zhihu.com/p/27382099)
 - 【社区】
-  - [Github](https://github.com/EaconTang)
-  - [知乎](https://www.zhihu.com/people/yktang/posts)
+  - Github：[https://github.com/EaconTang](https://github.com/EaconTang)
+  - 知乎：[https://www.zhihu.com/people/yktang/posts](https://www.zhihu.com/people/yktang/posts)
 
 
 ## 在职表现
