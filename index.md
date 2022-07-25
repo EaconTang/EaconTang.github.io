@@ -24,5 +24,5 @@ Code is cheap, show me your thoughts.
 
 
 # Contact
-- [Email](eacontang@foxmail.com): eacontang@foxmail.com
+- [Email](eacon-tang@foxmail.com): eacon-tang@foxmail.com
 - Wechat: tyingk
