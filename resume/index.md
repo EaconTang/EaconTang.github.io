@@ -12,7 +12,7 @@
 
 
 ## 技能总结
-- 扎实的计算机基础，熟悉Go/Python语言、trpc框架和常用技术组件，能主导完成复杂后台系统开发
+- 扎实的计算机基础，熟悉Go/Python/Java语言、trpc框架和常用技术组件，能主导完成复杂后台系统开发
 - 熟悉云原生架构领域技术（docker、k8s、etcd、opentracing等），有大规模上云的实战经验
 - 熟悉大型监控系统的实现原理，主导开发过大数据监控产品、分布式链路追踪平台
 - 熟悉Devops平台和工具链原理，并有大型运营平台的自研经验
@@ -64,7 +64,7 @@
 ```
 【项目简介】：基于jaeger二次开发的分布式调用链监控平台
 【个人角色】：主负责人
-【关键技术】：go、opentracing、jaeger、kafka、flink-streaming
+【关键技术】：go/c++、opentracing、jaeger、kafka、flink-streaming
 【相关数据】：接入服务8+个；数据量5+亿/天
 ```
 
@@ -80,7 +80,7 @@
 ```
 【项目简介】：基于OpenTSDB自研的大数据监控产品
 【个人角色】：技术Leader
-【关键技术】：python、opentsdb、大数据、HBase、布隆过滤器、AIOps机器学习异常检测
+【关键技术】：python/java、opentsdb、大数据、HBase、布隆过滤器、AIOps机器学习异常检测
 【相关数据】：[Github开源社区Star数: 77+](https://github.com/amas-eye/amas)
 【产品介绍】：[《Amas》](https://mp.weixin.qq.com/s/lCzsrPhzuaFfRyJidQ-H8w)
 ```
