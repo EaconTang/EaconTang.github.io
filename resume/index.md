@@ -8,7 +8,7 @@
 - 教育背景：中山大学-软件工程-本科（2015年毕业）
 - 工作经验：8+年
 - 当前就职：腾讯-微信安全团队、TRD运营开发、T10
-- 匹配岗位：Go/Python后台开发、PaaS平台开发、云原生架构师、Kubernetes容器平台开发、Devops/监控平台开发...
+- 匹配岗位：Go/Python后台、PaaS平台、云原生架构师、Kubernetes容器平台、Devops/监控平台...
 - 联系方式：(邮箱)eacon-tang@foxmail.com、(微信)tyingk
 
 
