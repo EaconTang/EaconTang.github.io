@@ -66,7 +66,7 @@
 ```
 【项目简介】：基于jaeger二次开发的分布式调用链监控平台
 【个人角色】：主负责人
-【关键技术】：go、opentracing、jaeger、kafka、flink-streaming
+【技术栈】：go、opentracing、jaeger、kafka、flink-streaming
 【相关数据】：接入服务8+个；数据量5+亿/天
 ```
 
@@ -74,7 +74,7 @@
 ```
 【项目简介】：自研的devops运营平台，支持CI/CD流程编排，支持基于k8s的非容器服务发布
 【个人角色】：主负责人
-【关键技术】：go、etcd、pipeline设计、docker、镜像仓库改造、k8s、CRI-Runtime
+【技术栈】：go、etcd、pipeline设计、docker、镜像仓库改造、k8s、CRI-Runtime
 【相关数据】：流水线构建次数1000+次/天；接入服务120+个；k8s集群规模5000+节点、13000+个实例
 ```
 
@@ -82,7 +82,7 @@
 ```
 【项目简介】：基于OpenTSDB自研的大数据监控产品
 【个人角色】：技术Leader
-【关键技术】：python/java、opentsdb、大数据、HBase、布隆过滤器、AIOps异常检测
+【技术栈】：python/java、opentsdb、大数据、HBase、布隆过滤器、AIOps异常检测
 【相关数据】：[Github开源社区Star数: 77+](https://github.com/amas-eye/amas)
 【产品介绍】：[《Amas》](https://mp.weixin.qq.com/s/lCzsrPhzuaFfRyJidQ-H8w)
 ```
