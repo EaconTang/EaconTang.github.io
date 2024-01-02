@@ -40,7 +40,7 @@
   - 公司：Coremail盈世科技（300~500人）
   - 职位：Java开发
   - 核心项目与职责：
-    - 后台接口自动化测试框架：模块开发
+    - 后台接口自动化测试：框架开发
 
 
 ## 重点项目简述
@@ -49,16 +49,16 @@
 ```
 【项目简介】：策略研发运营PaaS平台，负责腾讯海量业务安全数据的策略下发、离线回扫任务和业务运营。
 【个人角色】：技术Leader
-【关键技术】：trpc-go、mysql、redis、zookeeper、代码生成、分布式定时调度、状态机
+【技术栈】：trpc-go、mysql、redis、zookeeper、代码生成、分布式定时调度、状态机、公共组件开发
 【相关数据】：策略下发1000+次/天；离线回扫任务约2000并发；后台请求量级4+亿/分钟
 ```
 
 
-### K8s容器平台建设@腾讯
+### Kubernetes容器平台建设@腾讯
 ```
-【项目简介】：基于k8s的TKE容器基础平台建设，负责集群搭建、业务上云改造和平台二次开发。
+【项目简介】：基于k8s的TKE容器基础平台建设，负责集群运营、业务上云方案设计、平台二次开发。
 【个人角色】：主负责人
-【关键技术】：go、k8s、linux、云原生架构、underlay网络、HPA弹性伸缩、集群调度、镜像加速、动态配额
+【技术栈】：go、k8s、linux、云原生架构、overlay/underlay网络、HPA弹性伸缩、集群调度
 【相关数据】：集群规模超60w+核、8000+节点；利用率提升50%；成本节约300+w/年
 ```
 
@@ -74,7 +74,7 @@
 ```
 【项目简介】：自研的devops运营平台，支持CI/CD流程编排，支持基于k8s的非容器服务发布
 【个人角色】：主负责人
-【关键技术】：go、etcd、pipeline、docker、镜像仓库、k8s、CRI
+【关键技术】：go、etcd、pipeline设计、docker、镜像仓库改造、k8s、CRI-Runtime
 【相关数据】：流水线构建次数1000+次/天；接入服务120+个；k8s集群规模5000+节点、13000+个实例
 ```
 
@@ -82,7 +82,7 @@
 ```
 【项目简介】：基于OpenTSDB自研的大数据监控产品
 【个人角色】：技术Leader
-【关键技术】：python/java、opentsdb、大数据、HBase、布隆过滤器、AIOps机器学习异常检测
+【关键技术】：python/java、opentsdb、大数据、HBase、布隆过滤器、AIOps异常检测
 【相关数据】：[Github开源社区Star数: 77+](https://github.com/amas-eye/amas)
 【产品介绍】：[《Amas》](https://mp.weixin.qq.com/s/lCzsrPhzuaFfRyJidQ-H8w)
 ```
@@ -90,7 +90,7 @@
 
 ## 社区活动
 - 【公众号文章】
-  - 腾讯云原生：《信安运维基于 TKE 平台的容器技术实践》[https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw](https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw)
+  - 腾讯云原生：《信安基于TKE平台的容器技术实践》[https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw](https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw)
 - 【技术演讲】
   - Pycon2016-深圳场：《大数据监控告警系统实现》[https://zhuanlan.zhihu.com/p/27382099](https://zhuanlan.zhihu.com/p/27382099)
 - 【社区】
