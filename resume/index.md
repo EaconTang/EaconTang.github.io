@@ -85,6 +85,7 @@
 【技术栈】：python/java、opentsdb、大数据、HBase、布隆过滤器、AIOps异常检测
 【相关数据】：[Github开源社区Star数: 77+](https://github.com/amas-eye/amas)
 【产品介绍】：[《Amas》](https://mp.weixin.qq.com/s/lCzsrPhzuaFfRyJidQ-H8w)
+【AIOps竞赛】：[KPI异常检测 Top-12](https://competition.aiops-challenge.com/home/competition/1484452272200032281)
 ```
 
 
