@@ -1,6 +1,5 @@
 ```
 永久链接：https://eacontang.github.io/resume/
-更新时间：2024.08
 ```
 
 ## 个人信息
