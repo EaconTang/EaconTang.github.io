@@ -97,8 +97,8 @@
 【项目难点】：agent数据框架、告警规则引擎、告警过滤、异常检测
 【技术栈】：python、opentsdb、dsl、docker-compose、布隆过滤、sklearn机器学习
 【相关链接】：
-- Github开源版本: [https://github.com/amas-eye/amas](https://github.com/amas-eye/amas)
-- 2018年AIOps挑战赛: [https://challenge.aiops.cn/home/competition/1484452272200032281](https://challenge.aiops.cn/home/competition/1484452272200032281)
+- Github开源版本: https://github.com/amas-eye/amas
+- 2018年AIOps挑战赛: https://challenge.aiops.cn/home/competition/1484452272200032281
 ```
 
 ## 其他
