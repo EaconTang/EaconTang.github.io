@@ -6,7 +6,7 @@
 - 工作经验：10年
 - 目前就职：腾讯wxg-后台开发-T10
 - 匹配岗位：后台开发/运营开发/k8s容器开发
-- 联系方式：(邮箱)eacon-tang@foxmail.com、(微信)tyingk
+- 联系方式：(邮箱)eacon-tang@foxmail.com
 
 
 ## 能力自评
@@ -56,7 +56,7 @@
 ### 2）关键词服务(2024-至今)
 ```
 【项目简介】：维护关键词数据服务、对海量请求进行匹配和拦截，包括：关键词过滤服务、词库运营、种子互通等模块。
-【项目难点】：集群容量调度、词库管理、互通映射、字符串匹配
+【项目难点】：词库管理、互通映射、字符串匹配、集群容量调度
 【技术栈】：c++、trpc、go、mysql、pulsar-mq、redis、AC自动机
 【相关数据】：单机峰值100+w/min、集群节点200+个(约1.2w+核)；词库量级6000+w、单词库最大300+w
 ```
@@ -64,7 +64,7 @@
 ### 3）策略研发PaaS平台开发(2021-2023)
 ```
 【项目简介】：一站式WebIDE策略研发平台，负责安全策略的可视化编辑、一站式部署、离线回扫和业务运营。
-【项目难点】：策略规则转换、策略发布流程控制、回扫任务管理和控速
+【项目难点】：业务逻辑复杂度(策略规则转换、发布流程控制、回扫管理和控速等)
 【技术栈】：go、python、trpc、mysql、zookeeper、redis、pulsar-mq
 【相关数据】：业务接入2000+；离线回扫任务2000+/min
 ```
@@ -108,7 +108,7 @@
 
 ## 其他
 - 【绩效历史】2次5星，1次4星，无3星以下的低绩效
-- 【公众号】腾讯云原生：《信安运维基于 TKE 平台的容器技术实践》[https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw](https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw)
+- 【公众号】腾讯云原生：《信安基于 TKE 平台的容器技术实践》[https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw](https://mp.weixin.qq.com/s/FtmdiF4UcPGOOxOPlP_ukw)
 - 【线下演讲】PyCon2016-深圳场：《大数据监控告警系统实现》[https://zhuanlan.zhihu.com/p/27382099](https://zhuanlan.zhihu.com/p/27382099)
 - 【社区】Github：[https://github.com/EaconTang](https://github.com/EaconTang)
 - 【社区】知乎：[https://www.zhihu.com/people/yktang/posts](https://www.zhihu.com/people/yktang/posts)
