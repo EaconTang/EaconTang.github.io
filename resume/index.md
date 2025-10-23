@@ -49,7 +49,7 @@
 ```
 【项目简介】：负责微信基础业务安全数据的合规存储、加密、回溯和查询
 【项目难点】：数据写入、可搜索加密、回溯查询
-【技术栈】：c++、svrkit、elasticsearch
+【技术栈】：c++、elasticsearch、flink
 【相关数据】：全场景约80+亿/天、单场景峰值约1000w/min；集群节点约120个(1000核)
 ```
 
@@ -57,7 +57,7 @@
 ```
 【项目简介】：维护关键词数据服务、对海量请求进行匹配和拦截，包括：关键词过滤服务、词库运营、种子互通等模块。
 【项目难点】：词库管理、互通映射、字符串匹配、集群容量调度
-【技术栈】：c++、trpc、go、mysql、pulsar-mq、redis、AC自动机
+【技术栈】：c++、go、trpc、mysql、pulsar-mq、redis、AC自动机
 【相关数据】：单机峰值100+w/min、集群节点200+个(约1.2w+核)；词库量级6000+w、单词库最大300+w
 ```
 
@@ -99,8 +99,8 @@
 ### 7）大数据平台监控产品(2016-2017)
 ```
 【项目简介】：基于OpenTSDB自研的大数据监控产品
-【项目难点】：agent数据框架、告警规则引擎、告警过滤、异常检测
-【技术栈】：python、opentsdb、dsl、docker-compose、布隆过滤、sklearn机器学习
+【项目难点】：agent数据框架、告警规则引擎、布隆过滤、异常检测
+【技术栈】：python、opentsdb、dsl、docker-compose、sklearn机器学习
 【相关链接】：
 - Github开源版本: https://github.com/amas-eye/amas
 - AIOps挑战赛: https://challenge.aiops.cn/home/competition/1484452272200032281
